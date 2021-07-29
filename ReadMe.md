@@ -23,3 +23,9 @@
 - In the main folder you will find index.html file.
 - Click on index.html to open it on browser
 - Now you can interact with the app on browser
+
+## Repository Link:
+https://github.com/Hibahasansiddiqui/Palindrome-Checker-App
+
+## Live Link:
+https://hibahasansiddiqui.github.io/Palindrome-Checker-App/
