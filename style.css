@@ -1,0 +1,81 @@
+  
+  body {
+    background-color: rgb(180, 169, 169);
+  }
+  
+  h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h3,h4,h5,h6 {
+    color: #2E5266;
+  }
+  
+  h1.title {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    border-width: 0px;
+    color: #2E5266;
+    border-style: solid;
+    border-color: white;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+  }
+  
+  h1.results {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .for-alignment {
+      text-align: center;
+  }
+  
+  .text-alignment {
+      padding-left: 265px;
+  }
+
+  
+  .word-wrap {
+    padding: 20px 0px 20px 0px;
+  }
+  
+  form {
+    width: 100%;
+  }
+  
+  .word {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  a {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .link {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .checker {
+    text-align: center;
+  }
+  
+  .searchbtn {
+    border-radius: 0px 10px 10px 0px;
+    height: 40px;
+  }
+  
+  .searchbtn:hover {
+    background-color: grey;
+  }
+  
+  input {
+    width: 50%;
+    height: 40px;
+    border-radius: 10px 0px 0px 10px;
+  }
